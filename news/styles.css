@@ -1,0 +1,13 @@
+a.menu:visited {
+color : #0000FF; 
+text-decoration : none; 
+} 
+a.menu:link {
+color : #0000FF; 
+text-decoration : none; 
+} 
+a.menu:hover {
+color : #FF0000;
+text-decoration : none;
+}
+
